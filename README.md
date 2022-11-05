@@ -4,7 +4,7 @@ A simulation of a riddle where there are 100 prisoners each with their own numbe
 
 **SPOILER------------------------------------------------------------------------------**
 
-The best strategy known right now is the loop strategy. Each prisoner would go in and open the box that matches their number and open it. If the slip != their number they will go to the box with the number that matches the slip the prisoner just found. Once the prisoner finds the slip they can leave. If the first box open = their number they found their slip and can leave
+The best strategy known right now is the loop strategy. Each prisoner would go in and open the box that matches their number and open it. If the slip != their number they will go to the box with the number that matches the slip the prisoner just found. Once the prisoner finds the slip they can leave. If the first box open = their number they found their slip and can leave.
 
 The Statistics:
 
@@ -12,6 +12,7 @@ Doing the guessing strategy the odds that they all find their slip is the same a
 
 With the loop strategy they can get their success percentage all the way up to 31%
 
+To look at the code you must have Visual Studio installed (Not to be confused with VS Code!!). Then, you can open up the SOLUTION along with all of the other files. Open the SOLUTION first and it will create the nice layout in Visual Studio (The SOLUTION ends in the file type ".sln").
 
 **Credit to Youtube Channel Veritasium for the idea & statistics!!**
 Youtube Video: https://youtu.be/iSNsgj1OCLA
