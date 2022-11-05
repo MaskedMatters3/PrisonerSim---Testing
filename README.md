@@ -2,7 +2,7 @@
 
 A simulation of a riddle where there are 100 prisoners each with their own number. They each have one turn to go in a room with 100 boxes all labeled with numbers. Inside of each box is a slip with a number 1-100 and no repeats. The slip in the box does not match the number on the box. The prisoner will be able to open 50 boxes and try to find their slip. If one person doesn't find it, they all get executed. If they all find it, they are freed. What is their best strategy?
 
----------------------------------------------------------------------------SPOILER-------------------------------------------------------------------------
+**SPOILER------------------------------------------------------------------------------**
 
 The best strategy known right now is the loop strategy. Each prisoner would go in and open the box that matches their number and open it. If the slip != their number they will go to the box with the number that matches the slip the prisoner just found. Once the prisoner finds the slip they can leave. If the first box open = their number they found their slip and can leave
 
