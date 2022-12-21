@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matty\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matty\\OneDrive\\Documents\\Code\\Github\\PrisonerSim\\PrisonerSim\\PrisonerSimulator.csproj",
+      "projectUniqueName": "/workspaces/PrisonerSim---Testing/PrisonerSimulator.csproj",
       "projectName": "PrisonerSimulator",
-      "projectPath": "C:\\Users\\matty\\OneDrive\\Documents\\Code\\Github\\PrisonerSim\\PrisonerSim\\PrisonerSimulator.csproj",
-      "packagesPath": "C:\\Users\\matty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matty\\OneDrive\\Documents\\Code\\Github\\PrisonerSim\\PrisonerSim\\obj\\",
+      "projectPath": "/workspaces/PrisonerSim---Testing/PrisonerSimulator.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/PrisonerSim---Testing/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matty\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.100/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

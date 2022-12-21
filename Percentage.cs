@@ -16,7 +16,7 @@ namespace PrisonerSim
 
             Console.SetCursorPosition(0, 3); // Start cursor at start of line
 
-            Console.Write(percent + "%"); // Write the percentage
+            Console.Write(percentInt + "%"); // Write the percentage
         }
     }
 }
